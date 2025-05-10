@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Hermesson Yuri
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Hermesson Yuri, tenho 33 anos e sou natural de Alagoas. Atualmente estou Cursando Bacharelado em `Ciências da Computação` na "[Estácio](https://estacio.br/selecao?cod_agente=14369444&u=563052&end=1)" e `CS50's Introduction to Computer Science`
  na "[Harvard University](https://pll.harvard.edu/)". Sou apaixonado por tecnologia desde os meus 09 anos de Idade!
