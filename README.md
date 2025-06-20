@@ -22,11 +22,8 @@ I’m a passionate developer with over a decade of experience in technology, cur
 
 - 🛒 **E-commerce Solutions**  
   - [Man Baruch](https://manbaruch.shop)  
-  - [Real Rei Store](https://realreistore.shop)  
   - [Yaphah Style](https://yaphahstyle.shop)
-
-- ✍️ **Content Platforms**  
-  - [Análise Sincera Blog](https://analisecerta.blog)  
+  - [Análise Sincera Blog](https://siteoficial-hy.shop)  
   - [New Best Offers](https://bestoffers-hy.shop)
 
 - 📊 **Dashboards & BI**  
