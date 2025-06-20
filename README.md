@@ -1,34 +1,64 @@
-👨🏻‍💻 Hermesson Yuri
-<div>🚀 Desenvolvedor Full Stack | Bacharelando em Ciência da Computação</div>
-<div>🎓 CS50 – Harvard University Online</div>
-<div>💡 Foco em web moderna, escalável e de alta performance</div>
-<div>🔧 Projetos Relevantes:</div>
-<div>E-commerces: Man Baruch, Real Rei Store, Yaphah Style</div>
-<div>Blogs e conteúdo: Análise Sincera, New Best Offers</div>
-<div>🛠️ Stack principal: React.js, Node.js, Python, MySQL</div>
-<div>⚙️ DevOps: Docker, AWS Cloud Practitioner Essentials, Jenkins (CI/CD), Kubernetes (básico), deploy e automações</div>
-<div>📈 SEO técnico, arquitetura limpa, responsividade e código versionado com Git</div>
+# 👨🏻‍💻 Hermesson Yuri
+
+🚀 Full Stack Developer | Computer Science Student in [Estácio University](https://estacio.br/selecao?cod_agente=14369444&u=563052&end=1)  
+🎓 CS50 - Harvard University Online  
+💡 Building modern, scalable, high-performance web applications  
+📍 Based in Brazil | Available for remote opportunities  
 
 
+## 🗺️ Let's Connect
 
-        
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://hermessonyuri.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hermesson-yuri/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hermessonyurii) [![Perfil na DIO.me](https://img.shields.io/badge/DIO.me-0077B5?style=for-the-badge&logoColor=white)](https://www.dio.me/users/contato_39140)
 
-🛠 Tecnologias e Ferramentas  
+---
+
+## 🧠 About Me
+
+I’m a passionate developer with over a decade of experience in technology, currently pursuing a Bachelor's in Computer Science and sharpening my skills through Harvard's CS50. I specialize in crafting complete solutions using modern tools, with an eye for clean architecture, responsive design, and performance-driven development.
+
+---
+
+## 🔧 Main Projects
+
+- 🛒 **E-commerce Solutions**  
+  - [Man Baruch](https://manbaruch.shop)  
+  - [Real Rei Store](https://realreistore.shop)  
+  - [Yaphah Style](https://yaphahstyle.shop)
+
+- ✍️ **Content Platforms**  
+  - [Análise Sincera Blog](https://analisecerta.blog)  
+  - [New Best Offers](https://bestoffers-hy.shop)
+
+- 📊 **Dashboards & BI**  
+  - Excel-based business analytics dashboards  
+  - Power BI reports for commercial performance  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+React.js, Node.js, Python, Java, PHP, C#, MySQL, PostgreSQL, HTML, CSS, JavaScript, TypeScript
+
+**Tools & Cloud:**  
+Git, Docker, Jenkins (CI/CD), Kubernetes (basic), AWS (Cloud Practitioner), Linux, Bash, PowerShell
+
+**Practices:**  
+Clean Architecture, SEO (technical), Git workflows, Responsive Design, API RESTful, DevOps basics
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,python,java,php,mysql,postgres,sqlite,git,docker,jenkins,kubernetes,aws,linux,bash,powershell" />
 </p>
 
-📊 Estatísticas  
+---
+
+## 📊 GitHub Stats
+
 <div style="display: flex; gap: 10px;">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=Hermessonyurii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermessonyurii&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=Hermessonyurii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"/>
+  <img alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermessonyurii&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"/>
 </div>
 
+---
 
-<!-- 📫 Onde me encontrar -->
-<h3>📫 Onde me encontrar</h3>
-<p>
-  🔗 <a href="https://hermessonyuri.com/" target="_blank">Portfólio</a><br>
-  🔗 <a href="https://github.com/hermessonyurii" target="_blank">GitHub</a><br>
-  🔗 <a href="https://www.linkedin.com/in/hermesson-yuri/" target="_blank">LinkedIn</a>
-</p>
+
