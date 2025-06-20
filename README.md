@@ -9,14 +9,9 @@
 <div>⚙️ DevOps: Docker, AWS Cloud Practitioner Essentials, Jenkins (CI/CD), Kubernetes (básico), deploy e automações</div>
 <div>📈 SEO técnico, arquitetura limpa, responsividade e código versionado com Git</div>
 
-<p align="center">
-  <a href="https://github.com/Hermessonyurii?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hermessonyurii?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
-  </a>
-  <a href="https://github.com/Hermessonyurii?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Hermessonyurii?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores"/>
-  </a>
-</p>
+
+
+        
 
 🛠 Tecnologias e Ferramentas  
 <p align="left">
