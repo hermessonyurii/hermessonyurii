@@ -20,11 +20,8 @@ I’m a passionate developer with over a decade of experience in technology, cur
 
 ## 🔧 Main Projects
 
-- 🛒 **E-commerce Solutions**  
-  - [Man Baruch](https://manbaruch.shop)  
-  - [Yaphah Style](https://yaphahstyle.shop)
-  - [Análise Sincera Blog](https://siteoficial-hy.shop)  
-  - [New Best Offers](https://bestoffers-hy.shop)
+-  ** Check it out now!**  
+  - [Hermesson Yuri](https://hermessonyuri.com) 
 
 - 📊 **Dashboards & BI**  
   - Excel-based business analytics dashboards  
@@ -50,12 +47,15 @@ Clean Architecture, SEO (technical), Git workflows, Responsive Design, API RESTf
 ---
 
 ## 📊 GitHub Stats
-
-<div style="display: flex; gap: 10px;">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=Hermessonyurii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"/>
-  <img alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermessonyurii&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"/>
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 1rem 0;">
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Hermessonyurii&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=en&custom_title=Hermesson%20Yuri%27s%20GitHub%20Stats&card_width=450"
+  alt="GitHub Stats"
+  style="height: 200px;"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hermessonyurii&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages&card_width=300&exclude_repo=github-readme-stats"
+  alt="Top Languages"
+  style="height: 200px;"
+/>
 </div>
-
----
-
-
