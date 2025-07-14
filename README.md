@@ -1,9 +1,17 @@
 # 👨🏻‍💻 Hermesson Yuri
 
-🚀 Full Stack Developer | Computer Science Student in [Estácio University](https://estacio.br/selecao?cod_agente=14369444&u=563052&end=1)  
+🚀 Desenvolvedor Full Stack | 🎓 Estudante de Ciência da Computação na [Universidade Estácio](https://estacio.br/selecao?cod_agente=14369444&u=563052&end=1)
+<br>🎓 CS50 - Harvard University Online 
+<br>💡 Criando aplicativos da Web modernos, escaláveis e de alto desempenho 
+<br>📍 Moro atualmente no Brasil
+
+
+## 🗺️ Let's Connect
+
+🚀 Full Stack Developer | 🎓 Computer Science Student in [Estácio University](https://estacio.br/selecao?cod_agente=14369444&u=563052&end=1)  
 🎓 CS50 - Harvard University Online  
 💡 Building modern, scalable, high-performance web applications  
-📍 Based in Brazil | Available for remote opportunities  
+📍 I currently live in Brazil  
 
 
 ## 🗺️ Let's Connect
