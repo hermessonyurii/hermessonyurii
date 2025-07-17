@@ -1,11 +1,12 @@
 # 👨🏻‍💻 Hermesson Yuri
-## 🗺️ Let's Connect
-
 🚀 Full Stack Developer | 🎓 Computer Science Student in [Estácio University](https://estacio.br/selecao?cod_agente=14369444&u=563052&end=1)  
 🎓 I'm Bootcamping at DIO.me  
 💡 Building modern, scalable, high-performance web applications  
 📍 I currently live in Brazil  
 
+👋🏽I am a full stack developer with over a decade of technology experience, currently pursuing a Bachelor of Science in Computer Science and honing my skills through Bootcamp. I specialize in creating complete solutions using modern tools, with an eye for clean architecture, responsive design and performance-oriented development. My strong point is Front-End, but I'm studying Focused on Back-End.
+
+---
 
 ## 🗺️ Let's Connect
 
@@ -14,13 +15,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,python,java,php,mysql,postgres,sqlite,git,docker,jenkins,kubernetes,aws,linux,bash,powershell" />
 </p>
-
-
-## 🧠 About Me
-
-I’m a passionate developer with over a decade of experience in technology, currently pursuing a Bachelor's in Computer Science and sharpening my skills through Harvard's CS50. I specialize in crafting complete solutions using modern tools, with an eye for clean architecture, responsive design, and performance-driven development.
-
----
 
 ## 🔧 Main Projects
 
