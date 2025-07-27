@@ -13,19 +13,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://hermessonyuri.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hermesson-yuri/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hermessonyurii) [![Perfil na DIO.me](https://img.shields.io/badge/DIO.me-0077B5?style=for-the-badge&logoColor=white)](https://www.dio.me/users/contato_39140)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,python,java,php,mysql,postgres,sqlite,git,docker,jenkins,kubernetes,aws,linux,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,react,nodejs,html,css,js,ts,next,php,mysql,postgres,sqlite,git,aws,azure" />
 </p>
-
-## 🔧 Main Projects
-
--  **Check it out now!**  
-  - [Hermesson Yuri](https://hermessonyuri.com) 
-
-- 📊 **Dashboards & BI**  
-  - Excel-based business analytics dashboards  
-  - Power BI reports for commercial performance  
-
----
 
 ## 🛠️ Tech Stack
 
@@ -41,6 +30,17 @@ Clean Architecture, SEO (technical), Git workflows, Responsive Design, API RESTf
 
 
 ---
+## 🔧 Main Projects
+
+-  **Check it out now!**  
+  - [Hermesson Yuri](https://hermessonyuri.com) 
+
+- 📊 **Dashboards & BI**  
+  - Excel-based business analytics dashboards  
+  - Power BI reports for commercial performance  
+
+---
+
 
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 1rem 0;">
