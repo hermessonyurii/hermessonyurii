@@ -12,10 +12,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://hermessonyuri.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hermesson-yuri/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hermessonyurii) [![Perfil na DIO.me](https://img.shields.io/badge/DIO.me-0077B5?style=for-the-badge&logoColor=white)](https://www.dio.me/users/contato_39140)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,react,nodejs,html,css,js,ts,next,php,mysql,postgres,sqlite,git,aws,azure" />
-</p>
-
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
