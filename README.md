@@ -26,16 +26,6 @@ Clean Architecture, SEO (technical), Git workflows, Responsive Design, API RESTf
 
 
 ---
-## 🔧 Main Projects
-
--  **Check it out now!**  
-  - [Hermesson Yuri](https://hermessonyuri.com) 
-
-- 📊 **Dashboards & BI**  
-  - Excel-based business analytics dashboards  
-  - Power BI reports for commercial performance  
-
----
 
 
 ## 📊 GitHub Stats
