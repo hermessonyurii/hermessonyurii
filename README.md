@@ -1,34 +1,30 @@
 # 👨🏻‍💻 Hermesson Yuri
-🚀 Full Stack Developer | 🎓 Computer Science Student in [Estácio University](https://estacio.br/selecao?cod_agente=14369444&u=563052&end=1)  
-🎓 I'm Bootcamping at DIO.me  
-💡 Building modern, scalable, high-performance web applications  
-📍 I currently live in Brazil  
+🚀 Desenvolvedor Full Stack | 🎓 Estudante de Ciência da Computação na [Universidade Estácio](https://estacio.br/selecao?cod_agente=14369444&u=563052&end=1)<div>
+🎓 Bootcampando na DIO.me<div>
+💡 Construindo aplicações web modernas, escaláveis e de alto desempenho<div>
 
-👋🏽I am a full stack developer with over a decade of technology experience, currently pursuing a Bachelor of Science in Computer Science and honing my skills through Bootcamp. I specialize in creating complete solutions using modern tools, with an eye for clean architecture, responsive design and performance-oriented development. My strong point is Front-End, but I'm studying Focused on Back-End.
-
----
-
-## 🗺️ Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://hermessonyuri.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hermesson-yuri/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hermessonyurii) [![Perfil na DIO.me](https://img.shields.io/badge/DIO.me-0077B5?style=for-the-badge&logoColor=white)](https://www.dio.me/users/contato_39140)
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks:**  
-React.js, Node.js, Python, Java, PHP, C#, MySQL, PostgreSQL, HTML, CSS, JavaScript, TypeScript
-
-**Tools & Cloud:**  
-Git, Docker, Jenkins (CI/CD), Kubernetes (basic), AWS (Cloud Practitioner), Linux, Bash, PowerShell
-
-**Practices:**  
-Clean Architecture, SEO (technical), Git workflows, Responsive Design, API RESTful, DevOps basics
-
-
+👋🏽 Sou desenvolvedor full stack em transição de carreira, com mais de uma década de experiência em tecnologia, atualmente cursando Bacharelado em Ciência da Computação e aprimorando minhas habilidades através de Bootcamp. Especializo-me em criar soluções completas usando ferramentas modernas, com atenção em arquitetura limpa, design responsivo e desenvolvimento orientado para performance. Meu ponto forte é Front-End, mas estou estudando com foco em Back-End, ou seja Ser um Full Stack..
 
 ---
 
+## 🗺️ Vamos nos Conectar
 
-## 📊 GitHub Stats
+---
+
+## 🛠️ Stack de Tecnologias
+
+**Linguagens \& Frameworks:**
+React.js, Node.js, Python, Java, PHP, C\#, MySQL, PostgreSQL, HTML, CSS, JavaScript, TypeScript
+
+**Ferramentas \& Cloud:**
+Git, Docker, Jenkins (CI/CD), Kubernetes (básico), AWS (Cloud Practitioner), Linux, Bash, PowerShell
+
+**Práticas:**
+Arquitetura Limpa, SEO (técnico), Git workflows, Design Responsivo, API RESTful, DevOps básico
+
+***
+
+## 📊 Estatísticas do GitHub
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 1rem 0;">
 <img 
   src="https://github-readme-stats.vercel.app/api?username=Hermessonyurii&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=en&custom_title=Hermesson%20Yuri%27s%20GitHub%20Stats&card_width=450"
