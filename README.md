@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Hermesson Yuri
-🚀 Desenvolvedor Full Stack | 🎓 Estudante de Ciência da Computação na [Universidade Estácio](https://estacio.br/selecao?cod_agente=14369444&u=563052&end=1)<div>
+🚀 Desenvolvedor Full Stack | 🎓 Estudante de Ciência da Computação na [Universidade Estácio](https://inscricao.indicaestacio.com.br/matricula-indicae?u=658888&end=1)<div>
 💡 Construindo aplicações web modernas, escaláveis e de alto desempenho<div>
 
 👋🏽 Sou desenvolvedor full stack em transição de carreira, com mais de uma década de experiência em tecnologia, atualmente cursando Bacharelado em Ciência da Computação e aprimorando minhas habilidades através de Bootcamp. Especializo-me em criar soluções completas usando ferramentas modernas, com atenção em arquitetura limpa, design responsivo e desenvolvimento orientado para performance. Meu ponto forte é Front-End, mas estou estudando com foco em Back-End, ou seja Ser um Full Stack..
