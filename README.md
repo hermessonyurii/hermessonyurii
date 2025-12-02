@@ -2,7 +2,7 @@
 🚀 Desenvolvedor Full Stack | 🎓 Estudante de Ciência da Computação na [Universidade Estácio](https://inscricao.indicaestacio.com.br/matricula-indicae?u=658888&end=1)<div>
 💡 Construindo aplicações web modernas, escaláveis e de alto desempenho<div>
 
-👋🏽 Sou desenvolvedor full stack em transição de carreira, com mais de uma década de experiência em tecnologia, atualmente cursando Bacharelado em Ciência da Computação e aprimorando minhas habilidades através de Bootcamp. Especializo-me em criar soluções completas usando ferramentas modernas, com atenção em arquitetura limpa, design responsivo e desenvolvimento orientado para performance. Meu ponto forte é Front-End, mas estou estudando com foco em Back-End, ou seja Ser um Full Stack..
+👋🏽 Sou Hermesson Yuri, Suporte de Técnico em transição de carreira com mais de 14 anos de experiência em tecnologia. Comecei como Suporte Técnico e, em abril de 2025, iniciei a transição para desenvolvimento, ampliando conhecimentos por meio de projetos práticos e em dezembro de 2025, Iniciei minha Nova Tragetória como Estagiário de QA Software na empresa DoutBox, elevando minha experiência com foco em qualidade de software e testes.
 
 ---
 
